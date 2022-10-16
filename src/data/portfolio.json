@@ -1,0 +1,52 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/7.png",
+      "title": "Marwan's Portfolio",
+      "description": "React.js, Sass, Advanced Animation and 3D CSS.",
+      "url": "/"
+    },
+    {
+      "cover": "/portfolio/1/8.png",
+      "title": "Marwan's Blog",
+      "description": "Next.js, React.js, React Markdown.",
+      "url": "https://github.com/marwanfabrejr/Fabre-s-Blog"
+    },
+    {
+      "cover": "/portfolio/1/3.png",
+      "title": "Fabre Cart",
+      "description": "React.js, Redux Toolkit, Axios.",
+      "url": "https://fabrecart.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/6.png",
+      "title": "Cocktails",
+      "description": "React.js, Context API, React Router, Axios.",
+      "url": "https://fabrecocktailes.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/5.png",
+      "title": "LyricFinder",
+      "description": "React.js, Context API, React Router, Axios. Active: https://cors-anywhere.herokuapp.com/corsdemo",
+      "url": "https://lyricfinderfabre.netlify.app"
+    },
+    {
+      "cover": "/portfolio/1/4.png",
+      "title": "Fabre Expense Tracker",
+      "description": "React.js, Context API.",
+      "url": "https://fabreexpensetracker.netlify.app"
+    },
+    {
+      "cover": "/portfolio/1/2.png",
+      "title": "Fabre Cloud Hosting",
+      "description": "HTML, CSS (Responsive + Animation).",
+      "url": "https://fabrecloudhosting.netlify.app/"
+    },
+    {
+      "cover": "/portfolio/1/1.png",
+      "title": "Rick And Morty",
+      "description": "JavaScript, JQuery, CSS, HTML.",
+      "url": "https://rickknmorty.netlify.app/"
+    }
+  ]
+}
